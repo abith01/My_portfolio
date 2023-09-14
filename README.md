@@ -1,6 +1,6 @@
 Homepage
 ==========
 
-This repository gives the code for my online homepage. You can visit at:
+Look into my portfolio:  https://abith01.github.io/My_portfolio/
 
 
